@@ -11,5 +11,7 @@ namespace GitRepository1.Models
         private int iTest;
         private int iTestNew;
         private int mistake;
+
+        private int i2;
     }
 }
