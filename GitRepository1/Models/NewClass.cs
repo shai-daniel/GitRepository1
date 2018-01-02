@@ -11,5 +11,7 @@ namespace GitRepository1.Models
         private int iTest;
         private int iTestNew;
         private int mistake;
+
+        public int Mistake { get => mistake; set => mistake = value; }
     }
 }
