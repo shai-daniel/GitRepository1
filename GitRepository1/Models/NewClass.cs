@@ -7,5 +7,6 @@ namespace GitRepository1.Models
 {
     public class NewClass
     {
+        private int i;
     }
 }
