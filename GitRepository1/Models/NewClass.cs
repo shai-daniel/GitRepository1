@@ -8,5 +8,8 @@ namespace GitRepository1.Models
     public class NewClass
     {
         private int i;
+        private int iTest;
+        private int iTestNew;
+        private int mistake;
     }
 }
