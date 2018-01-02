@@ -13,5 +13,7 @@ namespace GitRepository1.Models
         private int mistake;
 
         public int Mistake { get => mistake; set => mistake = value; }
+
+        private int undoLastCommit;
     }
 }
